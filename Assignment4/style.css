@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none
+}
+
+ul {
+    display: inline-flex;
+}
+
+ul li {
+    padding-right: 50px;
+}
+
+.ctt1 {
+    height: 200px;
+    width: 20%;
+    background-color: aqua;
+}
